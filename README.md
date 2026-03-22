@@ -1,11 +1,35 @@
-**House Price Prediction System**
+# 🏠 House Price Prediction App
 
-**Overview**
-
-This project is a **Machine Learning-based House Price Prediction System** built using **FastAPI (backend)** and **Streamlit (frontend)**.
-It allows users to input property details and get predicted house prices in real-time.
+A full-stack machine learning web application that predicts house prices based on user inputs.  
+This project integrates a trained ML model with a FastAPI backend and a Streamlit frontend, deployed on cloud platforms.
 
 ---
+
+## 🚀 Live Demo
+
+🌐 **Live App (Streamlit UI):**  
+https://house-price-prediction-udyhypstmlupbigavjstuh.streamlit.app  
+
+⚙️ **Backend API (FastAPI):**  
+https://house-price-prediction-wa2p.onrender.com  
+
+---
+
+## 🧠 Project Overview
+
+This application allows users to input various house features such as number of bedrooms, area, condition, etc., and get a real-time price prediction using a machine learning model.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **Frontend:** Streamlit  
+- **Backend:** FastAPI  
+- **Machine Learning:** Scikit-learn  
+- **Libraries:** Pandas, NumPy  
+- **Deployment:** Render (API), Streamlit Cloud (UI)  
+
 
 ##  Key Features
 

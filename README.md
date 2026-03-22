@@ -41,6 +41,11 @@ Project/
 ```
 
 ---
+## 📸 Screenshots 
+<img width="1599" height="680" alt="image" src="https://github.com/user-attachments/assets/c9d95fff-f4d7-410f-b284-0a44810716d0" />
+<img width="1526" height="862" alt="image" src="https://github.com/user-attachments/assets/7518ebc1-dc0c-4142-98a1-5f81b62f3375" />
+
+
 
 ##  How It Works
 
